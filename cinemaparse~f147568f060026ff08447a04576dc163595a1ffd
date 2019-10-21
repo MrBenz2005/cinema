@@ -1,0 +1,10 @@
+class CinemaParser(object):
+    __init__(self):
+        spb_parser = CinemaParser('spb')
+        msk_parser = CinemaParser()
+        pass
+
+
+
+
+
